@@ -12,4 +12,4 @@ Built with HTML, CSS, and JavaScript using the Ocean Blue theme.
 
 - [GitHub](https://github.com/gmsandhya19-cyber)
 - [LinkedIn](https://www.linkedin.com/in/gmsandhya)
-- [portfolio](https://gmsandhya19-cyber.github.io/)
+- [portfolio](https://github.com/gmsandhya19-cyber/Sandhya.G_portfolio-.git)
